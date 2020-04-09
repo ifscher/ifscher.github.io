@@ -1,9 +1,9 @@
 ---
-layout: home
-title: Home
+layout: presentation-post-index
+title: Presentation-post-index
 ---
 
-# Tafn <h1> tag
+# Presentation-post-index <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
   

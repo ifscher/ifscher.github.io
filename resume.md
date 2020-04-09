@@ -1,9 +1,9 @@
 ---
-layout: home
-title: Home
+layout: resume
+title: Resume
 ---
 
-# Tafn <h1> tag
+# Resume <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
   

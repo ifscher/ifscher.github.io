@@ -1,9 +1,9 @@
 ---
-layout: home
-title: Home
+layout: post-index
+title: Post-index
 ---
 
-# Tafn <h1> tag
+# Post-index <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
   
