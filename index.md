@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+theme: jekyll-theme-minimal
 ---
 
 # This is an <h1> tag
